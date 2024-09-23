@@ -34,5 +34,6 @@ You can click the Preview link to take a look at your changes.
 
 ### 🚀 Contributions:
 - Total Commits in 2024: ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&count_private=true&include_all_commits=true&hide_title=true&show_icons=true&theme=dark&hide=contribs)  
-- Contribution Streak: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti)
+- Contribution Streak:  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti)
 
