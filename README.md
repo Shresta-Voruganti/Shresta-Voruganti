@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @Shresta-Voruganti
+# 👋 Hi, I’m @Shresta-Voruganti
 
 
 <!---
 Shresta-Voruganti/Shresta-Voruganti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----># Hi 👋, I'm Shresta Voruganti
-
+--->
 <!---
 - 🌱 I’m currently pursuing **BTech in Computer Science**
 - 💻 Practicing **LeetCode challenges** and solving **algorithmic problems**
