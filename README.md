@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 📫 How to reach me:
 <p align="left">
-  <a href="mailto:vshrestav@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="email" width="40" height="40"/></a> 
+  <a href="mailto:vshrestav@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/apple-mail.png" alt="email" width="40" height="40"/></a> 
   <a href="https://www.linkedin.com/in/shresta-voruganti9/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
 </p>
 
