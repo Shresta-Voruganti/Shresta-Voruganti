@@ -24,15 +24,15 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ### 📊 GitHub Stats:
-![Shresta's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrestaV&show_icons=true&theme=radical)
+![Shresta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=radical)
 
 ### 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrestaV&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=radical)
 
 ### 💻 Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrestaV&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=radical)
 
 ### 🚀 Contributions:
-- Total Commits in 2024: ![GitHub commits](https://badgen.net/github/commits/shrestaV)  
-- Contribution Streak: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrestaV)
+- Total Commits in 2024: ![GitHub commits](https://badgen.net/github/commits/Shresta-Voruganti)  
+- Contribution Streak: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti)
 
