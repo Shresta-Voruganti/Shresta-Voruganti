@@ -33,6 +33,6 @@ You can click the Preview link to take a look at your changes.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrestaV&layout=compact&theme=radical)
 
 ### 🚀 Contributions:
-- Total Commits in 2024: ![GitHub commits](https://badgen.net/github/commits/shrestaV)
+- Total Commits in 2024: ![GitHub commits](https://badgen.net/github/commits/shrestaV)  
 - Contribution Streak: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrestaV)
 
