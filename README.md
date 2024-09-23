@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ### 📊 GitHub Stats:
-![Shresta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=dark)
+![Shresta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=tokyonight)
 <!--- ![Shresta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=radical) -->
 
 
