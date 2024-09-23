@@ -32,13 +32,13 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=tokyonight)  
 <!--- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=radical) --->
 <!--- theme can be radical, or dark, or tokyonight, etc. --->
 
 
 ### 💻 Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=tokyonight)  
 <!--- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=radical) --->
 
 
