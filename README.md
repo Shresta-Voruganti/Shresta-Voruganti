@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @Shresta-Voruganti
 
+![Profile Views](https://profile-counter.glitch.me/Shresta-Voruganti/count.svg)
+
 
 <!---
 Shresta-Voruganti/Shresta-Voruganti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
