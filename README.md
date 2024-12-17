@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=tokyonight)
 <!--- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=radical) --->
 <!--- theme can be radical, or dark, or tokyonight, etc. --->
 
