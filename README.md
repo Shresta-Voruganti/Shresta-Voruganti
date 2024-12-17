@@ -52,4 +52,9 @@ You can click the Preview link to take a look at your changes.
 <!--- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=radical) --->
 
 
+### 👩🏻‍💻 Leetcode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shresta-Voruganti?theme=light&font=Karma)
+
+
+
 
