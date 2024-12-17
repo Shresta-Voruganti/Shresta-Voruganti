@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 👩🏻‍💻 Leetcode Stats:
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Shresta-Voruganti?theme=light&font=Karma) --->
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=Shresta-Voruganti&theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=Shresta-Voruganti&theme=dark&font=Karma)
 
 
 <!-- ![LeetCode Stats](https://img.shields.io/badge/LeetCode-100%2B%20problems%20solved-orange?logo=leetcode) -->
