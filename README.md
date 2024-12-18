@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 <!--- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=radical) --->
 
 
-### 🚀 Leetcode Badges:
+### ⭐️ Leetcode Badges:
 <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="Top SQL 50 Badge" width="150"/>
 <!-- ![Top SQL 50 Badge](https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif) -->
 
