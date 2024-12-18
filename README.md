@@ -52,12 +52,11 @@ You can click the Preview link to take a look at your changes.
 <!--- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=radical) --->
 
 
- ### 👩🏻‍💻 Leetcode Stats:
-I have earned the following LeetCode badge:
-
+### 🚀 Leetcode Badges:
 <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="Top SQL 50 Badge" width="100"/>
-
 This badge represents solving 50 SQL problems on LeetCode.
+
+ <!-- ### 👩🏻‍💻 Leetcode Stats: -->
 <!-- ![LeetCode Stats](https://leetcode.card.workers.dev/?username=Shresta-Voruganti&theme=dark&font=Karma&ext=heatmap) -->
 
 
