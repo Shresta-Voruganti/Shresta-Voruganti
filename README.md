@@ -53,7 +53,9 @@ You can click the Preview link to take a look at your changes.
 
 
  ### 👩🏻‍💻 Leetcode Stats:
- ![Top SQL 50 Badge](https://assets.leetcode.com/static_assets/others/Top_SQL_50.png)
+I have earned the following LeetCode badge:
+
+<img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="Top SQL 50 Badge" width="200"/>
 
 This badge represents solving 50 SQL problems on LeetCode.
 <!-- ![LeetCode Stats](https://leetcode.card.workers.dev/?username=Shresta-Voruganti&theme=dark&font=Karma&ext=heatmap) -->
