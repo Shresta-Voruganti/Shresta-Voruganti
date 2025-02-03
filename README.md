@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 
 ### ⭐️ Leetcode Badges:
 <p align="left">
-  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="Top SQL 50 Badge" width="100" style="margin-right = 50px"/>
+  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="Top SQL 50 Badge" width="100" style="margin-right: 50px"/>
   <img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="Jan LeetCoding Challenge" width="100"/>
 
 </p>
