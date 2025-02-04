@@ -61,7 +61,11 @@ You can click the Preview link to take a look at your changes.
 
 
 ### ⭐️ Leetcode Badges:
+<!--
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti" alt="LeetCode Badges" />
+-->
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti)
 <!--
 <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="Top SQL 50 Badge" width="100"/>
 <br>
