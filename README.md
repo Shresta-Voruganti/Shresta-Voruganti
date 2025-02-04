@@ -61,17 +61,20 @@ You can click the Preview link to take a look at your changes.
 
 
 ### ⭐️ Leetcode Badges:
+<!--
 <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="Top SQL 50 Badge" width="100"/>
 <br>
 <img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="Jan LeetCoding Challenge" width="100"/>
+-->
 
-<!-- ![Top SQL 50 Badge](https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif) 
+<!-- ![Top SQL 50 Badge](https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif) -->
+
 <p align="left">
-  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="Top SQL 50 Badge" width="100"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="Jan LeetCoding Challenge" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="Top SQL 50 Badge" width="100"/>
+  <img src="https://assets.leetcode.com/static/assets/images/badges/dcc-2025-1.png" alt="Jan LeetCoding Challenge" width="100"/>
 
 </p>
--->
+
 
 
  <!-- ### 👩🏻‍💻 Leetcode Stats: -->
