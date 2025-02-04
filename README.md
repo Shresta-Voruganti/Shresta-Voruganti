@@ -61,6 +61,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ### ⭐️ Leetcode Badges:
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti" alt="LeetCode Badges" />
 <!--
 <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="Top SQL 50 Badge" width="100"/>
 <br>
@@ -68,12 +69,12 @@ You can click the Preview link to take a look at your changes.
 -->
 
 <!-- ![Top SQL 50 Badge](https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif) -->
-
+<!--
 <p align="left">
   <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="Top SQL 50 Badge" width="100" style="margin-right: 50px"/>
   <img src="https://leetcode.com/static/images/badges/dcc-2025-1.png" alt="Jan LeetCoding Challenge" width="100"/>
 </p>
-
+-->
 
 
  <!-- ### 👩🏻‍💻 Leetcode Stats: -->
