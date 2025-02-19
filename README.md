@@ -45,19 +45,21 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ### 📊 GitHub Stats:
-![Shresta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=tokyonight)
+![Shresta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=dark)
 <!--- ![Shresta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=radical) -->
 
 
 ### 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=dark)
 <!--- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=radical) --->
 <!--- theme can be radical, or dark, or tokyonight, etc. --->
 
 
 ### 💻 Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=tokyonight)  
-<!--- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=radical) --->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=dark)  
+<!--- theme=tokyonight
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=radical) 
+--->
 
 
 ### ⭐️ Leetcode Badges:
@@ -65,8 +67,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti" alt="LeetCode Badges" />
 -->
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti&theme=tokyonight" alt="LeetCode Badges" />
-<!--
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti&theme=dark" alt="LeetCode Badges" />
+<!-- theme=tokyonight
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti&theme=tokyonight&animated=true" alt="LeetCode Badges" />
 -->
 <!--
