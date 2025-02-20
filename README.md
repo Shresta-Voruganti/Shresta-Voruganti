@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti" alt="LeetCode Badges" />
 -->
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti&theme=tokyonight" alt="LeetCode Badges" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti" alt="LeetCode Badges" />
 <!-- theme=tokyonight
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti&theme=tokyonight&animated=true" alt="LeetCode Badges" />
 -->
