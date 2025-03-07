@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Shresta-Voruganti</h1>
+<h1 align="center">👋Hi, I'm Shresta-Voruganti</h1>
 <h3 align="center">Developer | Designer | Tech Enthusiast</h3>
 
 <!--
