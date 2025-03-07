@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/shresta-voruganti9/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
 </p>
 
-
+---
 
 ### 🔧 Technologies & Tools
 <p align="left">
@@ -44,6 +44,16 @@ You can click the Preview link to take a look at your changes.
   <!-- Add more icons as needed -->
 </p>
 
+---
+
+### 💻 Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=tokyonight&hide_border=true)  
+<!--- theme=tokyonight
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=radical) 
+--->
+
+---
+
 ### 📊 GitHub Stats
 
 #### 📈 Summary Stats
@@ -56,6 +66,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=tokyonight&hide_border=true" alt="Shresta's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
+
+#### 🎯 Achievements
+![Achievements](https://github-profile-trophy.vercel.app/?username=Shresta-Voruganti&column=7&theme=tokyonight&no-frame=true)
+<!-- theme=gruvbox 
+![Achievements](https://github-profile-trophy.vercel.app/?username=Shresta-Voruganti&column=7&theme=tokyonight&no-frame=true)
+-->
 
 <!--
 
@@ -79,19 +95,12 @@ You can click the Preview link to take a look at your changes.
  theme can be radical, or dark, or tokyonight, gruvbox etc. 
 
 
+
 -->
 
-### 💻 Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=tokyonight&hide_border=true)  
-<!--- theme=tokyonight
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=radical) 
---->
 
-### 🎯 Achievements
-![Achievements](https://github-profile-trophy.vercel.app/?username=Shresta-Voruganti&column=7&theme=tokyonight&no-frame=true)
-<!-- theme=gruvbox 
-![Achievements](https://github-profile-trophy.vercel.app/?username=Shresta-Voruganti&column=7&theme=tokyonight&no-frame=true)
--->
+---
+
 
 ### ⭐️ Leetcode Badges
 <!--
