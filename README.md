@@ -45,32 +45,34 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ### 📊 GitHub Stats:
-![Shresta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=tokyonight&no-frame=true)
+![Shresta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=tokyonight)
 <!--- ![Shresta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=radical) -->
 
 
 ### 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=tokyonight&no-frame=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=tokyonight)
 <!--- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=radical) --->
 <!--- theme can be radical, or dark, or tokyonight, etc. --->
 
 
 ### 💻 Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=tokyonight&no-frame=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=tokyonight)  
 <!--- theme=tokyonight
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=radical) 
 --->
-<!-- theme=gruvbox -->
+
 ### 🎯 Achievements:
+![Achievements](https://github-profile-trophy.vercel.app/?username=Shresta-Voruganti&column=7&theme=tokyonight)
+<!-- theme=gruvbox 
 ![Achievements](https://github-profile-trophy.vercel.app/?username=Shresta-Voruganti&column=7&theme=tokyonight&no-frame=true)
+-->
 
 ### ⭐️ Leetcode Badges:
 <!--
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti" alt="LeetCode Badges" />
 -->
-<!-- ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti&theme=tokyonight&border=border&animated=false&no-frame=true)
--->
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti&theme=tokyonight&border=border&animated=false)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti&theme=tokyonight&border=border&animated=false&no-frame=true)
+
 
 <!-- theme=tokyonight
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti&theme=dark" alt="LeetCode Badges" />
