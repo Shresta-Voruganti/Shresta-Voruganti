@@ -47,17 +47,18 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shresta-voruganti9/">
+  <a href="https://www.linkedin.com/in/shresta-voruganti9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:vshrestav@gmail.com">
+  <a href="mailto:vshrestav@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://leetcode.com/Shresta-Voruganti/">
+  <a href="https://leetcode.com/Shresta-Voruganti/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-
+  </a>
+  
 </p>
+
 
 
 ---
