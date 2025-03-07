@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 - 🌍 From: **Hyderabad, Telangana, India**
 --->
 
-### 📫 How to reach me:
+### 📫 How to reach me
 <p align="left">
   <a href="mailto:vshrestav@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-256/free-apple-mail-icon-download-in-svg-png-gif-file-formats--logo-apps-pack-user-interface-icons-493152.png?f=webp&w=256" alt="email" width="40" height="40"/></a> 
   <a href="https://www.linkedin.com/in/shresta-voruganti9/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### 🔧 Technologies & Tools:
+### 🔧 Technologies & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
   <!-- Add more icons as needed -->
 </p>
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 #### 📈 Summary Stats
 <a href="https://github.com/Shresta-Voruganti">
@@ -81,19 +81,19 @@ You can click the Preview link to take a look at your changes.
 
 -->
 
-### 💻 Languages:
+### 💻 Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=tokyonight&hide_border=true)  
 <!--- theme=tokyonight
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=radical) 
 --->
 
-### 🎯 Achievements:
+### 🎯 Achievements
 ![Achievements](https://github-profile-trophy.vercel.app/?username=Shresta-Voruganti&column=7&theme=tokyonight&no-frame=true)
 <!-- theme=gruvbox 
 ![Achievements](https://github-profile-trophy.vercel.app/?username=Shresta-Voruganti&column=7&theme=tokyonight&no-frame=true)
 -->
 
-### ⭐️ Leetcode Badges:
+### ⭐️ Leetcode Badges
 <!--
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti" alt="LeetCode Badges" />
 -->
