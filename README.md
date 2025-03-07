@@ -45,23 +45,41 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ### 📊 GitHub Stats:
+
+#### 📈 Summary Stats
+<a href="https://github.com/Shresta-Voruganti">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shresta-Voruganti&theme=tokyonight&hide_border=true" alt="Shresta's GitHub Stats Graph"/>
+</a>
+
+#### 📋 Detailed Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=tokyonight&hide_border=true" alt="Shresta's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<!--
+
 ![Shresta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=tokyonight&hide_border=true)
-<!--- ![Shresta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=radical) -->
+
+
+![Shresta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=radical) 
 
 
 ### 🔥 Streak Stats:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=tokyonight&hide_border=true)
 
-<!--- 
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=tokyonight&hide_border=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=radical) --->
-<!--- theme can be radical, or dark, or tokyonight, etc. --->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=radical) 
+ theme can be radical, or dark, or tokyonight, gruvbox etc. 
 
+
+-->
 
 ### 💻 Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=tokyonight&hide_border=true)  
