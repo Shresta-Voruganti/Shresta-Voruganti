@@ -37,6 +37,9 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:vshrestav@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://vshrestav.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
 </p>
 
 
