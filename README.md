@@ -60,7 +60,9 @@ You can click the Preview link to take a look at your changes.
 <!--- theme=tokyonight
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=radical) 
 --->
-
+<!-- theme=gruvbox -->
+### 🎯 Achievements:
+![Achievements](https://github-profile-trophy.vercel.app/?username=Shresta-Voruganti&column=7&theme=tokyonight&no-frame=true)
 
 ### ⭐️ Leetcode Badges:
 <!--
