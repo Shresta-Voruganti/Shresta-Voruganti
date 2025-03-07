@@ -265,7 +265,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Shresta-Voruganti&color=blue" alt="Profile Views" width="150" height="30"/>
+    <img src="https://komarev.com/ghpvc/?username=Shresta-Voruganti&color=blue" alt="Profile Views" width="145" height="30"/>
     <br/>
   <!--
     <i>Thanks for stopping by! Let's create something amazing together.</i>
