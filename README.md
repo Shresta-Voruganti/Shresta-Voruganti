@@ -186,15 +186,15 @@ You can click the Preview link to take a look at your changes.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-### 💻 Languages
+---
+
+### 📊 GitHub Stats
+
+#### Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=tokyonight&hide_border=true)  
 <!--- theme=tokyonight
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=radical) 
 --->
-
----
-
-### 📊 GitHub Stats
 
 #### 📈 Summary Stats
 <a href="https://github.com/Shresta-Voruganti">
