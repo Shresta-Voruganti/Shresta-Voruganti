@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 #### 📋 Detailed Stats
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=tokyonight&hide_border=true" alt="Shresta's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
