@@ -160,6 +160,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Shresta-Voruganti&color=blue" alt="Profile Views" />
+    <br/>
+    <i>Thanks for stopping by! Let's create something amazing together.</i>
 </p>
 
 
