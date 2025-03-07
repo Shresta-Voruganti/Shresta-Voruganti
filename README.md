@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Shresta-Voruganti</h1>
-<h3 align="center">Developer | Designe | Tech Enthusiastr</h3>
+<h3 align="center">Developer | Designer | Tech Enthusiastr</h3>
 
 <!--
 # 👋 Hi, I’m @Shresta-Voruganti
