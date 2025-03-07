@@ -41,21 +41,48 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+<a href="mailto:vshrestav@gmail.com">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-apple-mail-icon-download-in-svg-png-gif-file-formats--logo-apps-pack-user-interface-icons-493152.png?f=webp&w=256" alt="Email" width="40" height="40"/>
+  </a>
+
+
+  <a href="https://medium.com/@vshrestav">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" width="40" height="40"/>
+  </a>
+
+  <p align="center">
+  <a href="mailto:vshrestav@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shresta-voruganti9/">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://medium.com/@vshrestav">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" alt="Medium" width="40" height="40"/>
+  </a>
+</p>
+
+ <a href="https://medium.com/@vshrestav">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Medium" width="40" height="40"/>
+  </a>
+
 -->
 
 
 
 <p align="center">
+  
   <a href="mailto:vshrestav@gmail.com">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-apple-mail-icon-download-in-svg-png-gif-file-formats--logo-apps-pack-user-interface-icons-493152.png?f=webp&w=256" alt="Email" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/shresta-voruganti9/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://medium.com/@vshrestav">
+   <a href="https://medium.com/@vshrestav">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ---
