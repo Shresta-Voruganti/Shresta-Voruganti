@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/shresta-voruganti9/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
 </p>
 
----
+
 
 ### 🔧 Technologies & Tools
 <p align="left">
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
   <!-- Add more icons as needed -->
 </p>
 
----
+
 
 ### 💻 Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresta-Voruganti&layout=compact&theme=tokyonight&hide_border=true)  
