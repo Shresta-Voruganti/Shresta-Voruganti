@@ -133,6 +133,10 @@ You can click the Preview link to take a look at your changes.
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=nlp&logoColor=white)  
 
 
+#### 🌐 Web Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+
 -->
 
 ### 🛠️ Tech Stack
@@ -149,7 +153,6 @@ You can click the Preview link to take a look at your changes.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### 🗄️ Database & Cache
