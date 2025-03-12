@@ -162,6 +162,7 @@ You can click the Preview link to take a look at your changes.
 
 #### 📱 Mobile Development  
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
 
 
 #### 🗄️ Database & Cache
