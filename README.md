@@ -201,23 +201,27 @@ You can click the Preview link to take a look at your changes.
 
 
 #### 📈 Summary Stats
+![Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shresta-Voruganti&theme=tokyonight&hide_border=true)
+<!--
 <a href="https://github.com/Shresta-Voruganti">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shresta-Voruganti&theme=tokyonight&hide_border=true" alt="Shresta's GitHub Stats Graph"/>
 </a>
+-->
 
 #### 📋 Detailed Stats
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=tokyonight&hide_border=true)
 <!--
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=tokyonight&hide_border=true" alt="Shresta's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 -->
-
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=tokyonight&hide_border=true)
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shresta-Voruganti&show_icons=true&theme=tokyonight&hide_border=true" alt="Shresta's GitHub stats" width="48%" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shresta-Voruganti&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-
+-->
 
 #### 🎯 Achievements
 ![Achievements](https://github-profile-trophy.vercel.app/?username=Shresta-Voruganti&column=7&theme=tokyonight&no-frame=true)
